@@ -1,3 +1,3 @@
 # SSOWebsite
-Sample SSO MVC Web Application using Pivotal SSO
+Sample .NET 4.61 SSO MVC Web Application using Pivotal SSO
 
